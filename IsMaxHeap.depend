@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1485798455 source:/home/turupawn/Clases/Analisis/5 - Heap (Pointer)/Test.cpp
+	"Test.h"
+
+1485798129 /home/turupawn/Clases/Analisis/5 - Heap (Pointer)/Test.h
+	"BinaryTreeNode.h"
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485798273 source:/home/turupawn/Clases/Analisis/5 - Heap (Pointer)/main.cpp
+	"Test.h"
+	<iostream>
+
+1485790651 source:/home/turupawn/Clases/Analisis/5 - Heap (Pointer)/BinaryTreeNode.cpp
+	"BinaryTreeNode.h"
+
+1485790954 /home/turupawn/Clases/Analisis/5 - Heap (Pointer)/BinaryTreeNode.h
+

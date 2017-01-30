@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485716041 source:/home/turupawn/Clases/Analisis/Heap/Test.cpp
+	"Test.h"
+
+1485715944 /home/turupawn/Clases/Analisis/Heap/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485716233 source:/home/turupawn/Clases/Analisis/Heap/main.cpp
+	"Test.h"
+	<iostream>
+
