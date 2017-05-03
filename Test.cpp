@@ -24,8 +24,6 @@ void test()
     nb2->left = nb4; nb2->right = nb5;
     nb3->left = nb6; nb3->right = nb7;
 
-    int arr6[] = { 100, 90, 70, 91, 85, 65, 40, -1, -1, -1, -1, -1, -1, -1, -1};
-
     if(isMaxHeap(na1)
         && isMaxHeap(na3)
         && isMaxHeap(na7)
